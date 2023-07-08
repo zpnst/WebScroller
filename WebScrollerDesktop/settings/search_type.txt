@@ -1,0 +1,3 @@
+Еnter "NO" or "YES" to change the parametr
+
+|) Whether your organization is a network --> NO

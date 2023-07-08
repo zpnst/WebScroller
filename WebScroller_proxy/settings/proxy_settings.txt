@@ -1,0 +1,6 @@
+ENTER YOUR LOGIN, PASSWORD AND PORTS FROM YOUR PROXY SERVER
+PORTS ENTER WITHOUT SPACES THROUGH ";"
+
+|) Login --> Enter your proxy login here
+||) Password --> Enter your proxy password here
+|||) Port --> Enter your proxy ports without spaces through ";" here

@@ -1,0 +1,4 @@
+Еnter "NO" or "YES" to change the parametr without removing ";"
+
+|) Whether your organization is a network --> NO;
+||) Connect proxy --> NO
